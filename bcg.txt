@@ -1,0 +1,44 @@
+Chatbot Documentation
+
+Overview
+
+This chatbot is designed to assist users by responding to predefined queries and generating dynamic responses based on input context. It leverages natural language processing (NLP) and machine learning techniques to provide relevant and context-aware replies.
+
+Functionalities
+
+Conversational Responses: The chatbot can engage in general conversations, providing informative and interactive replies.
+
+Data Analysis & Coding Support: Users can receive assistance with MS Excel, SQL, Power BI, Numpy, Pandas, Keras, Matplotlib, TensorFlow, and Seaborn.
+
+Predefined Queries: It can respond to frequently asked questions related to data analysis, IT support, and technical troubleshooting.
+
+File Processing: Supports uploading and processing of structured data files.
+
+Web Searches: Can fetch real-time information from the web when necessary.
+
+Document Editing: Enables creating, modifying, and commenting on documents collaboratively.
+
+Predefined Queries
+
+The chatbot is trained to recognize and respond to commonly asked queries, including but not limited to:
+
+How do I perform a SQL JOIN operation?
+
+What are the key features of Power BI?
+
+How do I visualize data using Matplotlib?
+
+Best practices for using Pandas for data manipulation?
+
+Tips for optimizing TensorFlow models?
+
+Limitations
+
+Context Retention: While the chatbot can remember ongoing discussions within a session, long-term memory is limited to explicitly stored user preferences and knowledge.
+
+Complex Code Execution: It can assist with code snippets and debugging but does not support executing highly complex or computationally intensive scripts directly.
+
+Real-Time Updates: Web searches are performed when required, but some responses may be based on the last available information.
+
+Privacy & Security: The chatbot does not store personal user data beyond the session unless explicitly noted.
+
